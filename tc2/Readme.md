@@ -1,3 +1,3 @@
-# Deber de bioinformática *1*
+# Deber de bioinformática
 - Nombre: Angelica Flores
 - Grupo: G01
