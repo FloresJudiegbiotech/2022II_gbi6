@@ -1,3 +1,4 @@
+ # Universidad Regional Amazínica Ikiam 🧡🤍🖤
  # Deber 1 de bioinformática 🤓
  
  **Datos**
