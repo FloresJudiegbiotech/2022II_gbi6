@@ -16,6 +16,6 @@ Los tópicos cubiertos son:
 
 - 🌱 **Francisco Mendoza**: TA.
 
-# Estudiantes
+ Estudiantes
 - Alejandra Toro
 - John Fariños
